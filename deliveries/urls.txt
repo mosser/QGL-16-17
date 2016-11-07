@@ -1,0 +1,27 @@
+# Groupe 1
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iaaa/private.git;Equipe AA
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iaab/private.git;Equipe AB
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iaac/private.git;Equipe AC
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iaad/private.git;Equipe AD
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iaae/private.git;Equipe AE
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iaaf/private.git;Equipe AF
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iaaa/private.git;Equipe AA
+# Groupe 2
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iaba/private.git;Equipe BA
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iabb/private.git;Equipe BB
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iabc/private.git;Equipe BC
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iabd/private.git;Equipe BD
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iabe/private.git;Equipe BE
+# Groupe 3
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iaca/private.git;Equipe CA
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iacb/private.git;Equipe CB
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iacc/private.git;Equipe CC
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iacd/private.git;Equipe CD
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iace/private.git;Equipe CE
+# Groupe 4
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iada/private.git;Equipe DA
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iadb/private.git;Equipe DB
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iadc/private.git;Equipe DC
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iadd/private.git;Equipe DD
+https://mosser@mjollnir.unice.fr/bitbucket/scm/iade/private.git;Equipe DE
+## That's all folks
