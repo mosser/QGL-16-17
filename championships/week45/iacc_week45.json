@@ -19,7 +19,7 @@
     "budget": 20000
   },
   "part": "Engine",
-  "time": 1479061231816,
+  "time": 1479063465492,
   "meth": "initialize"
 },{
   "data": {
@@ -27,7 +27,7 @@
     "parameters": {"direction": "N"}
   },
   "part": "Explorer",
-  "time": 1479061231823,
+  "time": 1479063465494,
   "meth": "takeDecision"
 },{
   "data": {
@@ -41,7 +41,7 @@
       "eu.ace_design.island.game.Engine.process$1(Engine.scala:67)",
       "eu.ace_design.island.game.Engine.play(Engine.scala:88)",
       "eu.ace_design.island.game.Engine.run(Engine.scala:39)",
-      "eu.ace_design.island.arena.utils.Runner.play(Runner.scala:90)",
+      "eu.ace_design.island.arena.utils.Runner.play(Runner.scala:94)",
       "eu.ace_design.island.arena.utils.Runner.process(Runner.scala:62)",
       "eu.ace_design.island.arena.utils.Runner$$anonfun$1.apply(Runner.scala:53)",
       "eu.ace_design.island.arena.utils.Runner$$anonfun$1.apply(Runner.scala:53)",
@@ -84,6 +84,6 @@
     "message": ["requirement failed: Congrats, the plane is out of radio range..."]
   },
   "part": "Engine",
-  "time": 1479061231824,
+  "time": 1479063465496,
   "meth": "takeDecision"
 }]
