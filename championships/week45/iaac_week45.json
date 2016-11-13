@@ -19,26 +19,40 @@
     "budget": 20000
   },
   "part": "Engine",
-  "time": 1479065001854,
+  "time": 1479064992181,
   "meth": "initialize"
 },{
+  "data": {"action": "scan"},
+  "part": "Explorer",
+  "time": 1479064992183,
+  "meth": "takeDecision"
+},{
   "data": {
-    "action": "heading",
-    "parameters": {"direction": "N"}
+    "cost": 7,
+    "extras": {
+      "creeks": [],
+      "biomes": ["OCEAN"],
+      "sites": []
+    },
+    "status": "OK"
+  },
+  "part": "Engine",
+  "time": 1479064992184,
+  "meth": "takeDecision"
+},{
+  "data": {
+    "action": "echo",
+    "parameters": {"direction": "null"}
   },
   "part": "Explorer",
-  "time": 1479065001856,
+  "time": 1479064992185,
   "meth": "takeDecision"
 },{
   "data": {
     "exception": ["IllegalArgumentException"],
     "stacktrace": [[
-      "scala.Predef$.require(Predef.scala:219)",
-      "eu.ace_design.island.game.actions.Heading.buildResult(Heading.scala:13)",
-      "eu.ace_design.island.game.Action$class.build(Actions.scala:39)",
-      "eu.ace_design.island.game.Action$class.apply(Actions.scala:26)",
-      "eu.ace_design.island.game.actions.Heading.apply(Heading.scala:6)",
-      "eu.ace_design.island.game.Engine.process$1(Engine.scala:67)",
+      "eu.ace_design.island.game.ActionParser$.apply(Actions.scala:81)",
+      "eu.ace_design.island.game.Engine.process$1(Engine.scala:62)",
       "eu.ace_design.island.game.Engine.play(Engine.scala:88)",
       "eu.ace_design.island.game.Engine.run(Engine.scala:39)",
       "eu.ace_design.island.arena.utils.Runner.play(Runner.scala:94)",
@@ -82,9 +96,9 @@
       "java.lang.reflect.Method.invoke(Method.java:498)",
       "com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)"
     ]],
-    "message": ["requirement failed: Congrats, the plane is out of radio range..."]
+    "message": ["Invalid JSON input : scala.MatchError: null (of class java.lang.String) \ndata: { \"action\": \"echo\", \"parameters\": { \"direction\": \"null\" } }"]
   },
-  "part": "Engine",
-  "time": 1479065001858,
+  "part": "Explorer",
+  "time": 1479064992185,
   "meth": "takeDecision"
 }]

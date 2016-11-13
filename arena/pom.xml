@@ -42,6 +42,34 @@
       <version>${scala.version}</version>
     </dependency>
 
+
+    <!-- Temporary -->
+    <dependency>
+      <groupId>fr.unice.polytech.3a.qgl</groupId>
+      <artifactId>islac</artifactId>
+      <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>fr.unice.polytech.3a.qgl</groupId>
+      <artifactId>islad</artifactId>
+      <version>0.1-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>fr.unice.polytech.3a.qgl</groupId>
+      <artifactId>islbe</artifactId>
+      <version>0.1-SNAPSHOT</version>
+    </dependency>
+      <dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>islda</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>
+    <dependency>
+      <groupId>fr.unice.polytech.3a.qgl</groupId>
+      <artifactId>isldb</artifactId>
+      <version>0.1-SNAPSHOT</version>
+    </dependency>
+
       <!-- ############ -->
       <!-- # Group #1 # -->
       <!-- ############ -->

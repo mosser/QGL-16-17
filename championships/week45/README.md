@@ -26,17 +26,17 @@
 
 
 ## Point of Interests available
-  - (69,123): (EmergencySite@(696.30,1234.95) [01b8a364-72d7-4438-96a7-3bb6dc1cf978])
-  - (64,57): (Creek@(649.40,574.37) [17f8e1a5-d37a-4de6-8327-95953b3ab2e4])
-  - (52,73): (Creek@(525.03,737.37) [b21a25a5-b936-41e4-aacb-439837c08eaa])
-  - (50,94): (Creek@(504.77,948.08) [311b0fff-eb98-4019-94d2-02626c7d8d4d])
-  - (47,104): (Creek@(475.24,1042.56) [468afae0-e4e0-4d27-a13a-0584341167ab])
-  - (108,69): (Creek@(1087.86,692.15) [382ea2f8-967b-4428-8e9b-a71e81520b57])
-  - (73,130): (Creek@(731.06,1304.54) [7d5a01ce-7e7f-462b-b0b8-bf9c21350789])
-  - (93,110): (Creek@(934.45,1103.91) [a7038860-973f-48f7-a1ca-2640871a8b09])
-  - (103,91): (Creek@(1036.78,915.45) [09f209de-b6d5-4338-9b4e-c2eac87c9ece])
-  - (97,104): (Creek@(976.97,1044.64) [824b2692-c3e4-4ba1-8c0b-d8eb97fb5577])
-  - (104,82): (Creek@(1040.53,823.51) [5cbdd9b5-4604-4753-8948-f26ba9ca4d69])
+  - (69,123): (EmergencySite@(696.30,1234.95) [7c0b23fa-6818-4723-843c-f01de18af0b2])
+  - (64,57): (Creek@(649.40,574.37) [3a9e4502-fbb4-46b9-959d-4298e634f8bd])
+  - (52,73): (Creek@(525.03,737.37) [3c06722b-dbe5-4e58-9b02-e34bbfaf952e])
+  - (50,94): (Creek@(504.77,948.08) [2933a3c4-d826-44ce-8c62-13f2f66bb8ca])
+  - (47,104): (Creek@(475.24,1042.56) [dc55029e-bffd-46ec-9b31-c6d2d5b44686])
+  - (108,69): (Creek@(1087.86,692.15) [ef5e9af5-c246-4d20-b5b3-43b3ecd6bed9])
+  - (73,130): (Creek@(731.06,1304.54) [d88eafdc-1028-4269-b342-e83a454324ce])
+  - (93,110): (Creek@(934.45,1103.91) [0107f9ca-f2b9-4261-b7a6-679148df5010])
+  - (103,91): (Creek@(1036.78,915.45) [98a9f9f9-78d5-4e4c-ad12-0e0188e5c5d7])
+  - (97,104): (Creek@(976.97,1044.64) [f7cd7241-3ffb-410f-a8f6-e63e93955b6e])
+  - (104,82): (Creek@(1040.53,823.51) [f3970e2a-2c11-4643-b479-018071e0f034])
 
 
 ## Resources amounts
@@ -55,24 +55,45 @@
   - FLOWER    : 10
 
 ```
-19:57:37.715 Island/Arena: Processing player [iacb] with island [week45]
-19:57:37.919 Island/Arena:  --> Execution time: 204ms
-19:57:45.492 Island/Arena: Processing player [iacc] with island [week45]
-19:57:45.498 Island/Arena:  --> Execution time: 6ms
-19:57:50.544 Island/Arena: Processing player [iadd] with island [week45]
-19:57:50.547 Island/Arena:  --> Execution time: 3ms
+20:22:53.893 Island/Arena: Processing player [iacb] with island [week45]
+20:22:54.117 Island/Arena:  --> Execution time: 223ms
+20:23:01.763 Island/Arena: Processing player [iaad] with island [week45]
+20:23:01.826 Island/Arena:  --> Execution time: 63ms
+20:23:07.239 Island/Arena: Processing player [iadd] with island [week45]
+20:23:07.243 Island/Arena:  --> Execution time: 4ms
+20:23:12.180 Island/Arena: Processing player [iaac] with island [week45]
+20:23:12.186 Island/Arena:  --> Execution time: 5ms
+20:23:17.107 Island/Arena: Processing player [iada] with island [week45]
+20:23:17.108 Island/Arena:  --> Execution time: 1ms
+20:23:21.853 Island/Arena: Processing player [iacc] with island [week45]
+20:23:21.858 Island/Arena:  --> Execution time: 5ms
 ```
+
 # Automatic Ranking
   - IADD: [], 19996 action points left
-  - IACB: [], 19266 action points left
+  - IADA: [], 19996 action points left
+  - IAAD: [], 19520 action points left
+  - IACB: [], 19251 action points left
 
 # Successful simulations
 
+## Playing bot delivered by IAAD
+  - Remaining budget: 19520
+  - Collected resources:
+    - No resources collected
+  - Report: None
+
 ## Playing bot delivered by IACB
-  - Remaining budget: 19266
+  - Remaining budget: 19251
   - Collected resources:
     - No resources collected
   - Report: 
+
+## Playing bot delivered by IADA
+  - Remaining budget: 19996
+  - Collected resources:
+    - No resources collected
+  - Report: Home sweet home
 
 ## Playing bot delivered by IADD
   - Remaining budget: 19996
@@ -82,4 +103,5 @@
 
 # Simulation encountering gameplay issues 
 
+  - IAAC
   - IACC
