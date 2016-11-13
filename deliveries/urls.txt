@@ -5,7 +5,6 @@ https://mosser@mjollnir.unice.fr/bitbucket/scm/iaac/private.git;Equipe AC
 https://mosser@mjollnir.unice.fr/bitbucket/scm/iaad/private.git;Equipe AD
 https://mosser@mjollnir.unice.fr/bitbucket/scm/iaae/private.git;Equipe AE
 https://mosser@mjollnir.unice.fr/bitbucket/scm/iaaf/private.git;Equipe AF
-https://mosser@mjollnir.unice.fr/bitbucket/scm/iaaa/private.git;Equipe AA
 # Groupe 2
 https://mosser@mjollnir.unice.fr/bitbucket/scm/iaba/private.git;Equipe BA
 https://mosser@mjollnir.unice.fr/bitbucket/scm/iabb/private.git;Equipe BB

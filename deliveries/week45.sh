@@ -13,7 +13,7 @@ function valid_env() # $1 is project's id.
     xml_key_value pom.xml groupId fr.unice.polytech.3a.qgl
     xml_key_value pom.xml artifactId $1
     # Bot
-    PACKAGE=./src/main/java/fr/unice/polytech/qgl/$1
+    PACKAGE=./src/main/java/fr/unice/polytech/si3/qgl/$1
     exists_dir $PACKAGE
     if [ "$ERROR" = "1" ]
     then

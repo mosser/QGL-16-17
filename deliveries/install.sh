@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for team in q*
+for team in ia*
 do
     cd $team
     mvn -DskipTests clean install

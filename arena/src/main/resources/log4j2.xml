@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="off">
+
+    <Appenders>
+        <Console name="stdout">
+            <PatternLayout>
+                <Pattern>%d{HH:mm:ss.SSS} %c{1}: %m%n</Pattern>
+            </PatternLayout>
+        </Console>
+    </Appenders>
+
+    <Loggers>
+        <Logger name="eu.ace_design.Island" level="off" additivity="false">
+            <AppenderRef ref="stdout"/>
+        </Logger>
+        <Logger name="eu.ace_design.Island/Mesh" level="off" additivity="false">
+            <AppenderRef ref="stdout"/>
+        </Logger>
+        <Logger name="eu.ace_design.Island/Map" level="INFO" additivity="false">
+            <AppenderRef ref="stdout"/>
+        </Logger>
+        <Logger name="eu.ace_design.Island/Viewer" level="off" additivity="false">
+            <AppenderRef ref="stdout"/>
+        </Logger>
+        <Logger name="eu.ace_design.Island/Board" level="INFO" additivity="false">
+            <AppenderRef ref="stdout"/>
+        </Logger>
+        <Logger name="eu.ace_design.Island/Arena" level="INFO" additivity="false">
+            <AppenderRef ref="stdout"/>
+        </Logger>
+        <Root level="off">
+            <AppenderRef ref="stdout" />
+        </Root>
+    </Loggers>
+
+</Configuration>

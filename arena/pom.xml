@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  
+  <groupId>eu.ace-design</groupId>
+  <artifactId>island-championship</artifactId>
+  <version>2.0</version>
+  <packaging>jar</packaging>
+  <name>Island :: 2016 Championship Runner</name>
+  <description>The Game Arena [2016-2017]</description>
+  
+  
+  <properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+    <encoding>UTF-8</encoding>
+    <!-- Software dependencies version-->
+    <scala.version>2.11.4</scala.version>
+    <island.version>2.0-SNAPSHOT</island.version>
+  </properties>
+  
+  
+  <repositories>
+    <repository>
+      <id>oss.sonatype.org-snapshots</id>
+      <name>snapshots</name>
+      <url>http://oss.sonatype.org/content/repositories/snapshots</url>
+    </repository>
+  </repositories>
+  
+  
+  <dependencies>
+    <dependency>
+      <groupId>eu.ace-design</groupId>
+      <artifactId>island-arena</artifactId>
+      <version>${island.version}</version>
+    </dependency>
+    <!-- Import the Scala language -->
+    <dependency>
+      <groupId>org.scala-lang</groupId>
+      <artifactId>scala-library</artifactId>
+      <version>${scala.version}</version>
+    </dependency>
+
+      <!-- ############ -->
+      <!-- # Group #1 # -->
+      <!-- ############ -->
+
+      <!-- <dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iaaa</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency> -->
+      <!--<dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iaab</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>-->
+      <!--<dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iaac</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>-->
+      <!--<dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iaad</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>-->
+      <!--<dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iaae</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>-->
+      <!--<dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iaaf</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>-->
+
+
+      <!-- ############ -->
+      <!-- # Group #2 # -->
+      <!-- ############ -->
+
+      <!--<dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iaba</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>-->
+      <!--<dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iabb</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>-->
+      <!--<dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iabc</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>-->
+      <!--<dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iabd</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>-->
+      <!--<dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iabe</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>-->
+
+      <!-- ############ -->
+      <!-- # Group #3 # -->
+      <!-- ############ -->
+
+      <!--<dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iaca</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>-->
+      <dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iacb</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>
+      <dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iacc</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>
+      <!--<dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iacd</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>-->
+      <!--<dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iace</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>-->
+
+      <!-- ############ -->
+      <!-- # Group #4 # -->
+      <!-- ############ -->
+
+      <!--<dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iada</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>-->
+      <!--<dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iadb</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>-->
+      <!--<dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iadc</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>-->
+      <dependency>
+          <groupId>fr.unice.polytech.3a.qgl</groupId>
+          <artifactId>iadd</artifactId>
+          <version>0.1-SNAPSHOT</version>
+      </dependency>
+      <!-- <dependency>
+           <groupId>fr.unice.polytech.3a.qgl</groupId>
+           <artifactId>iade</artifactId>
+           <version>0.1-SNAPSHOT</version>
+       </dependency>-->
+
+  </dependencies>
+  
+  <build>
+    <sourceDirectory>src/main/scala</sourceDirectory>
+    <testSourceDirectory>src/test/scala</testSourceDirectory>
+    <plugins>
+      <!-- Scala Compilation -->
+      <plugin>
+        <groupId>net.alchim31.maven</groupId>
+        <artifactId>scala-maven-plugin</artifactId>
+        <version>3.1.3</version>
+        <executions>
+          <execution>
+            <goals>
+              <goal>compile</goal>
+              <goal>testCompile</goal>
+            </goals>
+            <configuration>
+              <jvmArgs>
+                <jvmArg>-Xms64m</jvmArg>
+                <jvmArg>-Xmx1024m</jvmArg>
+              </jvmArgs>
+              <args>
+                <arg>-deprecation</arg>
+                <arg>-feature</arg>
+                <arg>-dependencyfile</arg>
+                <arg>${project.build.directory}/.scala_dependencies</arg>
+              </args>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+</project>
