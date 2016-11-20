@@ -15,7 +15,7 @@
     "budget": 15000
   },
   "part": "Engine",
-  "time": 1479668095599,
+  "time": 1479679884705,
   "meth": "initialize"
 },{
   "data": {
@@ -39,6 +39,6 @@
     "message": ["No enum constant fr.unice.polytech.si3.qgl.iabd.RawResource.INGOT"]
   },
   "part": "Explorer",
-  "time": 1479668095602,
+  "time": 1479679884706,
   "meth": "initialize"
 }]

@@ -26,17 +26,17 @@
 
 
 ## Point of Interests available
-  - (50,96): (Creek@(500.48,962.10) [837cc36e-026e-4333-98f5-09e9d8067607])
-  - (62,33): (Creek@(623.87,339.58) [74a385ef-e701-433c-8196-d9700efc2dfa])
-  - (104,57): (Creek@(1041.37,576.20) [55bc4284-7c5d-4332-be2e-c16ef02794d0])
-  - (42,37): (Creek@(429.03,375.13) [9beefa22-8b7c-4231-b1ea-03dcbb02232a])
-  - (34,73): (Creek@(341.28,732.56) [37e94f96-9dad-48c5-b4a2-62f1d170df00])
-  - (36,37): (Creek@(368.48,371.91) [0b1e89b7-00e4-415c-b545-91f411c1ce5f])
-  - (124,119): (Creek@(1244.43,1194.27) [e8625c40-9d2a-41e1-80d7-71fc0659ae8b])
-  - (71,51): (EmergencySite@(710.49,517.86) [9ce713a2-3ae5-46e5-b73b-d3448eb828ea])
-  - (114,64): (Creek@(1145.79,648.74) [539bfc87-d79b-4df5-8471-05b6670d2aa5])
-  - (81,118): (Creek@(814.31,1186.57) [19b3002e-f04b-4eac-bc65-e9c2019bb8a3])
-  - (76,118): (Creek@(769.13,1188.73) [37020e59-af20-483e-951f-20ed58bb5c57])
+  - (50,96): (Creek@(500.48,962.10) [af5eb5a4-331f-4e5a-b3a6-b49f96c63196])
+  - (62,33): (Creek@(623.87,339.58) [69a7d014-e255-490a-82e4-0df5aa3d04f7])
+  - (104,57): (Creek@(1041.37,576.20) [cb58e017-fa2b-4251-80d0-df33d39c3e14])
+  - (42,37): (Creek@(429.03,375.13) [b4bf178e-0f42-4b29-a16b-5eac14d813f2])
+  - (34,73): (Creek@(341.28,732.56) [7c301efb-99df-4337-bdca-04fffc0b5ca2])
+  - (36,37): (Creek@(368.48,371.91) [d32f6b6b-8122-436a-9bbe-da7dcd736335])
+  - (124,119): (Creek@(1244.43,1194.27) [3e54359d-1ade-42ae-adde-7b4713a6cae9])
+  - (71,51): (EmergencySite@(710.49,517.86) [d44c15eb-9440-4333-80ee-86d2eb4ae688])
+  - (114,64): (Creek@(1145.79,648.74) [1fa55d12-a7f0-41f7-961e-5225ee523d66])
+  - (81,118): (Creek@(814.31,1186.57) [554e4f62-8d8c-491d-87f5-f763059e0425])
+  - (76,118): (Creek@(769.13,1188.73) [8f6d4cda-7bb4-4b5a-879e-8327cd167bd6])
 
 
 ## Resources amounts
@@ -51,59 +51,60 @@
   - INGOT     : 5
 
 ```
-19:53:57.375 Island/Arena: Processing player [iadd] with island [week46]
-19:53:57.515 Island/Arena:  --> Execution time: 140ms
-19:54:06.443 Island/Arena: Processing player [iabb] with island [week46]
-19:54:06.540 Island/Arena:  --> Execution time: 97ms
-19:54:14.651 Island/Arena: Processing player [iaac] with island [week46]
-19:54:18.418 Island/Arena:  --> Execution time: 3767ms
-19:54:26.805 Island/Arena: Processing player [iaae] with island [week46]
-19:54:26.832 Island/Arena:  --> Execution time: 27ms
-19:54:34.223 Island/Arena: Processing player [iada] with island [week46]
-19:54:34.242 Island/Arena:  --> Execution time: 19ms
-19:54:43.358 Island/Arena: Processing player [iacd] with island [week46]
-19:54:44.725 Island/Arena:  --> Execution time: 1367ms
-19:54:51.386 Island/Arena: Processing player [iaca] with island [week46]
-19:54:51.416 Island/Arena:  --> Execution time: 30ms
-19:54:55.597 Island/Arena: Processing player [iabd] with island [week46]
-19:54:55.602 Island/Arena:  --> Execution time: 5ms
-19:55:01.882 Island/Arena: Processing player [iadb] with island [week46]
-19:55:01.899 Island/Arena:  --> Execution time: 16ms
-19:55:09.534 Island/Arena: Processing player [iaaa] with island [week46]
-19:55:09.550 Island/Arena:  --> Execution time: 15ms
-19:55:18.059 Island/Arena: Processing player [iacb] with island [week46]
-19:55:18.094 Island/Arena:  --> Execution time: 34ms
+23:10:51.019 Island/Arena: Processing player [iaac] with island [week46]
+23:10:52.192 Island/Arena:  --> Execution time: 1173ms
+23:10:58.394 Island/Arena: Processing player [iaae] with island [week46]
+23:10:58.418 Island/Arena:  --> Execution time: 24ms
+23:11:08.888 Island/Arena: Processing player [iabb] with island [week46]
+23:11:08.922 Island/Arena:  --> Execution time: 34ms
+23:11:17.212 Island/Arena: Processing player [iadb] with island [week46]
+23:11:17.236 Island/Arena:  --> Execution time: 24ms
+23:11:24.702 Island/Arena: Processing player [iabd] with island [week46]
+23:11:24.706 Island/Arena:  --> Execution time: 4ms
+23:11:31.490 Island/Arena: Processing player [iacb] with island [week46]
+23:11:31.531 Island/Arena:  --> Execution time: 40ms
+23:11:37.707 Island/Arena: Processing player [iaaa] with island [week46]
+23:11:37.723 Island/Arena:  --> Execution time: 16ms
+23:11:43.857 Island/Arena: Processing player [iadd] with island [week46]
+23:11:43.882 Island/Arena:  --> Execution time: 25ms
+23:11:48.945 Island/Arena: Processing player [iada] with island [week46]
+23:11:48.959 Island/Arena:  --> Execution time: 14ms
+23:11:52.603 Island/Arena: Processing player [iaca] with island [week46]
+23:11:52.639 Island/Arena:  --> Execution time: 36ms
+23:11:57.415 Island/Arena: Processing player [iacd] with island [week46]
+23:11:58.620 Island/Arena:  --> Execution time: 1205ms
 ```
 
 # Automatic Ranking
-  - IAAA: [], 14814 action points left
-  - IADB: [], 14771 action points left
-  - IADD: [], 14752 action points left
-  - IADA: [], 14713 action points left
-  - IABB: [], 14686 action points left
-  - IACA: [], 14522 action points left
-  - IAAC: [], 5259 action points left
+  - IAAA: [], 14797 action points left
+  - IADD: [], 14778 action points left
+  - IADB: [], 14777 action points left
+  - IADA: [], 14702 action points left
+  - IABB: [], 14658 action points left
+  - IACA: [], 14528 action points left
+  - IAAC: [], 5172 action points left
 
 # Successful simulations
 
 ## Playing bot delivered by IAAA
-  - Remaining budget: 14814
+  - Remaining budget: 14797
   - Collected resources:
     - No resources collected
   - Report: []
 
 ## Playing bot delivered by IAAC
-  - Remaining budget: 5259
+  - Remaining budget: 5172
   - Collected resources:
     - No resources collected
   - Report: 
+
 ```
-CREEK:37020e59-af20-483e-951f-20ed58bb5c57
-EMERGENCY:9ce713a2-3ae5-46e5-b73b-d3448eb828ea
+CREEK:8f6d4cda-7bb4-4b5a-879e-8327cd167bd6
+EMERGENCY:d44c15eb-9440-4333-80ee-86d2eb4ae688
 ```
 
 ## Playing bot delivered by IABB
-  - Remaining budget: 14686
+  - Remaining budget: 14658
   - Collected resources:
     - No resources collected
   - Report: 
@@ -114,33 +115,33 @@ We found the island
 ```
 
 ## Playing bot delivered by IACA
-  - Remaining budget: 14522
+  - Remaining budget: 14528
   - Collected resources:
     - No resources collected
-  - Report: `CREEK:0b1e89b7-00e4-415c-b545-91f411c1ce5f`
+  - Report: `CREEK:d32f6b6b-8122-436a-9bbe-da7dcd736335`
 
 
 ## Playing bot delivered by IADA
-  - Remaining budget: 14713
+  - Remaining budget: 14702
   - Collected resources:
     - No resources collected
   - Report: `Home sweet home`
 
 ## Playing bot delivered by IADB
-  - Remaining budget: 14771
+  - Remaining budget: 14777
   - Collected resources:
     - No resources collected
   - Report: `Hello, here's an empty report for you! :)`
 
 ## Playing bot delivered by IADD
-  - Remaining budget: 14752
+  - Remaining budget: 14778
   - Collected resources:
     - No resources collected
   - Report: `CREEK:NOT_FOUND`
 
 # Simulation encountering gameplay issues 
 
-  - IAAE: _Congrats, the plane is out of radio range..._
-  - IABD: _No enum constant fr.unice.polytech.si3.qgl.iabd.RawResource.INGOT_
-  - IACB: _Congrats, the plane is out of radio range..._
-  - IACD: _A JSONObject text must begin with '{' at 1 [character 2 line 1]_
+  - IAAE
+  - IABD
+  - IACB
+  - IACD
