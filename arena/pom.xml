@@ -43,62 +43,36 @@
     </dependency>
 
 
-    <!-- Temporary -->
-    <dependency>
-      <groupId>fr.unice.polytech.3a.qgl</groupId>
-      <artifactId>islac</artifactId>
-      <version>0.1-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>fr.unice.polytech.3a.qgl</groupId>
-      <artifactId>islad</artifactId>
-      <version>0.1-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>fr.unice.polytech.3a.qgl</groupId>
-      <artifactId>islbe</artifactId>
-      <version>0.1-SNAPSHOT</version>
-    </dependency>
-      <dependency>
-          <groupId>fr.unice.polytech.3a.qgl</groupId>
-          <artifactId>islda</artifactId>
-          <version>0.1-SNAPSHOT</version>
-      </dependency>
-    <dependency>
-      <groupId>fr.unice.polytech.3a.qgl</groupId>
-      <artifactId>isldb</artifactId>
-      <version>0.1-SNAPSHOT</version>
-    </dependency>
 
       <!-- ############ -->
       <!-- # Group #1 # -->
       <!-- ############ -->
 
-      <!-- <dependency>
+      <dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iaaa</artifactId>
           <version>0.1-SNAPSHOT</version>
-      </dependency> -->
+      </dependency>
       <!--<dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iaab</artifactId>
           <version>0.1-SNAPSHOT</version>
       </dependency>-->
-      <!--<dependency>
+      <dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iaac</artifactId>
           <version>0.1-SNAPSHOT</version>
-      </dependency>-->
+      </dependency>
       <!--<dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iaad</artifactId>
           <version>0.1-SNAPSHOT</version>
       </dependency>-->
-      <!--<dependency>
+      <dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iaae</artifactId>
           <version>0.1-SNAPSHOT</version>
-      </dependency>-->
+      </dependency>
       <!--<dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iaaf</artifactId>
@@ -115,21 +89,21 @@
           <artifactId>iaba</artifactId>
           <version>0.1-SNAPSHOT</version>
       </dependency>-->
-      <!--<dependency>
+      <dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iabb</artifactId>
           <version>0.1-SNAPSHOT</version>
-      </dependency>-->
+      </dependency>
       <!--<dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iabc</artifactId>
           <version>0.1-SNAPSHOT</version>
       </dependency>-->
-      <!--<dependency>
+      <dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iabd</artifactId>
           <version>0.1-SNAPSHOT</version>
-      </dependency>-->
+      </dependency>
       <!--<dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iabe</artifactId>
@@ -140,11 +114,11 @@
       <!-- # Group #3 # -->
       <!-- ############ -->
 
-      <!--<dependency>
+      <dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iaca</artifactId>
           <version>0.1-SNAPSHOT</version>
-      </dependency>-->
+      </dependency>
       <dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iacb</artifactId>
@@ -155,11 +129,11 @@
           <artifactId>iacc</artifactId>
           <version>0.1-SNAPSHOT</version>
       </dependency>
-      <!--<dependency>
+      <dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iacd</artifactId>
           <version>0.1-SNAPSHOT</version>
-      </dependency>-->
+      </dependency>
       <!--<dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iace</artifactId>
@@ -170,16 +144,16 @@
       <!-- # Group #4 # -->
       <!-- ############ -->
 
-      <!--<dependency>
+      <dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iada</artifactId>
           <version>0.1-SNAPSHOT</version>
-      </dependency>-->
-      <!--<dependency>
+      </dependency>
+      <dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iadb</artifactId>
           <version>0.1-SNAPSHOT</version>
-      </dependency>-->
+      </dependency>
       <!--<dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iadc</artifactId>
@@ -194,7 +168,7 @@
            <groupId>fr.unice.polytech.3a.qgl</groupId>
            <artifactId>iade</artifactId>
            <version>0.1-SNAPSHOT</version>
-       </dependency>-->
+       </dependency> -->
 
   </dependencies>
   
