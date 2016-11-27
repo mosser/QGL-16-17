@@ -24,4 +24,13 @@ object Islands extends DiSLand {
       AssignPitch, usingBiomes(WhittakerDiagrams.nordic)) usingSeed s46
   }
 
+
+  // Small island, easy to explore with the drone.
+  val s47 = 0x72CBC0A8BEB5F77BL
+  lazy val week47: IslandMap = {
+    createIsland shapedAs donut(40.percent, 3.percent) withSize 1600 having 2000.faces builtWith Seq(
+      plateau(15), flowing(rivers = 5, distance = 0.8), withMoisture(soils.wet, distance = 100),
+      AssignPitch, usingBiomes(WhittakerDiagrams.nordic))  usingSeed s47
+  }
+
 }
