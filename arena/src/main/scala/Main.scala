@@ -9,9 +9,8 @@ object Main extends App {
 
   // Running the championship
 
-  //Week45 run
-
-  Week46 run
-
+  // Week45 run
+  // Week46 run
+  Week47 run
 
 }
