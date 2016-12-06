@@ -134,11 +134,11 @@
           <artifactId>iacd</artifactId>
           <version>0.1-SNAPSHOT</version>
       </dependency>
-      <!--<dependency>
+      <dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iace</artifactId>
           <version>0.1-SNAPSHOT</version>
-      </dependency>-->
+      </dependency>
 
       <!-- ############ -->
       <!-- # Group #4 # -->

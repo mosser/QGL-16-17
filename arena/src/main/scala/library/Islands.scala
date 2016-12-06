@@ -7,13 +7,20 @@ import eu.ace_design.island.stdlib.WhittakerDiagrams
 
 object Islands extends DiSLand {
 
+  // Small island, easy to explore with the drone.
+  val s48 = 0xC3033B04FFBDB180L
+  lazy val week48: IslandMap = {
+    createIsland shapedAs donut(30.percent, 8.percent) withSize 1600 having 2000.faces builtWith Seq(
+      plateau(10), flowing(rivers = 10, distance = 0.4), withMoisture(soils.normal, distance = 200),
+      AssignPitch, usingBiomes(WhittakerDiagrams.caribbean))  usingSeed s48
+  }
 
-  // Big island, easy to find.
-  val s45 = 0xB03CA1A997813D02L
-  lazy val week45: IslandMap = {
-    createIsland shapedAs ellipsis(75.percent, 33.percent, 291) withSize 1600 having 2000.faces builtWith Seq(
-      plateau(30), flowing(rivers = 5, distance = 0.4), withMoisture(soils.wet, distance = 100),
-      AssignPitch, usingBiomes(WhittakerDiagrams.caribbean)) usingSeed s45
+  // Small island, easy to explore with the drone.
+  val s47 = 0x72CBC0A8BEB5F77BL
+  lazy val week47: IslandMap = {
+    createIsland shapedAs donut(40.percent, 3.percent) withSize 1600 having 2000.faces builtWith Seq(
+      plateau(15), flowing(rivers = 5, distance = 0.8), withMoisture(soils.wet, distance = 100),
+      AssignPitch, usingBiomes(WhittakerDiagrams.nordic))  usingSeed s47
   }
 
   // Big island, easy to find.
@@ -24,13 +31,12 @@ object Islands extends DiSLand {
       AssignPitch, usingBiomes(WhittakerDiagrams.nordic)) usingSeed s46
   }
 
-
-  // Small island, easy to explore with the drone.
-  val s47 = 0x72CBC0A8BEB5F77BL
-  lazy val week47: IslandMap = {
-    createIsland shapedAs donut(40.percent, 3.percent) withSize 1600 having 2000.faces builtWith Seq(
-      plateau(15), flowing(rivers = 5, distance = 0.8), withMoisture(soils.wet, distance = 100),
-      AssignPitch, usingBiomes(WhittakerDiagrams.nordic))  usingSeed s47
+  // Big island, easy to find.
+  val s45 = 0xB03CA1A997813D02L
+  lazy val week45: IslandMap = {
+    createIsland shapedAs ellipsis(75.percent, 33.percent, 291) withSize 1600 having 2000.faces builtWith Seq(
+      plateau(30), flowing(rivers = 5, distance = 0.4), withMoisture(soils.wet, distance = 100),
+      AssignPitch, usingBiomes(WhittakerDiagrams.caribbean)) usingSeed s45
   }
 
 }
