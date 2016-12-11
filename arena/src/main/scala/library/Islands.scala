@@ -8,6 +8,14 @@ import eu.ace_design.island.stdlib.WhittakerDiagrams
 object Islands extends DiSLand {
 
   // Small island, easy to explore with the drone.
+  val s49 = 0xA43264158C840E1CL
+  lazy val week49: IslandMap = {
+    createIsland shapedAs ellipsis(50.percent, 33.percent, 75) withSize 1600 having 2000.faces builtWith Seq(
+      plateau(15), flowing(rivers = 20, distance = 0.9), withMoisture(soils.wet, distance = 150),
+      AssignPitch, usingBiomes(WhittakerDiagrams.caribbean)) usingSeed s49
+  }
+
+  // Small island, easy to explore with the drone.
   val s48 = 0xC3033B04FFBDB180L
   lazy val week48: IslandMap = {
     createIsland shapedAs donut(30.percent, 8.percent) withSize 1600 having 2000.faces builtWith Seq(

@@ -63,11 +63,11 @@
           <artifactId>iaac</artifactId>
           <version>0.1-SNAPSHOT</version>
       </dependency>
-      <!--<dependency>
+      <dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iaad</artifactId>
           <version>0.1-SNAPSHOT</version>
-      </dependency>-->
+      </dependency>
       <dependency>
           <groupId>fr.unice.polytech.3a.qgl</groupId>
           <artifactId>iaae</artifactId>
