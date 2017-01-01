@@ -26,17 +26,17 @@
 
 
 ## Point of Interests available
-  - (21,97): (Creek@(216.16,979.40) [b620eb63-b2c7-4265-a352-99e18049277a])
-  - (87,142): (Creek@(877.33,1426.77) [2d1ff691-5e67-4f12-8ef6-c00393fcfc54])
-  - (19,97): (Creek@(195.39,977.22) [deeb2e81-9f59-48db-9c92-aa19a7bed24f])
-  - (141,67): (Creek@(1411.08,673.03) [df01f475-4507-4cc1-99b1-7665ad9e4106])
-  - (114,131): (Creek@(1144.65,1317.58) [0c0cde51-e9c0-474a-8a9a-5d11a9a09f81])
-  - (24,47): (Creek@(245.20,471.49) [31aeb48e-af27-4c29-b9bf-1950c075dc3d])
-  - (121,34): (Creek@(1211.28,344.61) [3083e79e-343e-42f7-9318-1c3d4a9bf808])
-  - (32,107): (EmergencySite@(320.63,1076.60) [ad0c6156-e2e6-4c3e-bdbf-b0e03147951c])
-  - (132,48): (Creek@(1328.08,486.66) [dacd034f-362b-4dd2-82db-2f04b2a74bb9])
-  - (50,135): (Creek@(505.23,1350.26) [1180baaa-505a-4517-8838-9fd9f9bdd14f])
-  - (99,141): (Creek@(998.87,1411.99) [1d8febb8-2aad-48f8-b42e-85ff9e5352ae])
+  - (21,97): (Creek@(216.16,979.40) [f32b44d6-add5-427a-b378-eaca05c7fc58])
+  - (87,142): (Creek@(877.33,1426.77) [2dc730c0-55b3-4e73-a3d7-a11e97e79faf])
+  - (19,97): (Creek@(195.39,977.22) [61c4e24c-0002-43a0-b70b-3e183cf97c50])
+  - (141,67): (Creek@(1411.08,673.03) [5c0d4587-71e8-44aa-a8fe-9dcecdf2bdb3])
+  - (114,131): (Creek@(1144.65,1317.58) [3d724b46-37c0-42fd-b45f-646067251d9a])
+  - (24,47): (Creek@(245.20,471.49) [a40eb599-46db-4515-b430-77f9af85e964])
+  - (121,34): (Creek@(1211.28,344.61) [49daeda4-f21c-453a-b091-d206eba3b75f])
+  - (32,107): (EmergencySite@(320.63,1076.60) [6d54d9b3-d90c-40bf-8427-6afc425172b1])
+  - (132,48): (Creek@(1328.08,486.66) [e8144087-a11b-4c3d-82e4-91e2cd1c1b49])
+  - (50,135): (Creek@(505.23,1350.26) [704a039d-54d1-445d-813e-bbcc086f438f])
+  - (99,141): (Creek@(998.87,1411.99) [d2094ce3-397a-4ffe-beea-af0ba7bf9af3])
 
 
 ## Resources amounts
@@ -51,93 +51,82 @@
   - QUARTZ    : 100
   - GLASS     : 2
 
+
 ```
-19:26:50.015 Island/Arena: Processing player [iaaa] with island [week01]
-19:26:51.985 Island/Arena:  --> Execution time: 1970ms
-19:26:56.315 Island/Arena: Processing player [iacd] with island [week01]
-19:26:58.513 Island/Arena:  --> Execution time: 2198ms
-19:27:02.569 Island/Arena: Processing player [iade] with island [week01]
-19:27:02.916 Island/Arena:  --> Execution time: 347ms
-19:27:09.321 Island/Arena: Processing player [iabd] with island [week01]
-19:27:11.155 Island/Arena:  --> Execution time: 1833ms
-19:27:14.061 Island/Arena: Processing player [iaca] with island [week01]
-19:27:19.169 Island/Arena:  --> Execution time: 5108ms
-19:27:22.021 Island/Arena: Processing player [iaba] with island [week01]
-19:27:24.955 Island/Arena:  --> Execution time: 2934ms
-19:27:27.332 Island/Arena: Processing player [iaae] with island [week01]
-19:27:29.012 Island/Arena:  --> Execution time: 1679ms
-19:27:31.549 Island/Arena: Processing player [iabb] with island [week01]
-19:27:34.358 Island/Arena:  --> Execution time: 2809ms
+19:35:55.296 Island/Arena: Processing player [iabb] with island [week01]
+19:35:59.458 Island/Arena:  --> Execution time: 4162ms
+19:36:03.059 Island/Arena: Processing player [iacd] with island [week01]
+19:36:05.526 Island/Arena:  --> Execution time: 2466ms
+19:36:09.009 Island/Arena: Processing player [iabd] with island [week01]
+19:36:10.615 Island/Arena:  --> Execution time: 1606ms
+19:36:13.994 Island/Arena: Processing player [iaca] with island [week01]
+19:36:17.934 Island/Arena:  --> Execution time: 3940ms
+19:36:20.490 Island/Arena: Processing player [iaba] with island [week01]
+19:36:23.212 Island/Arena:  --> Execution time: 2722ms
+19:36:25.979 Island/Arena: Processing player [iaaa] with island [week01]
+19:36:26.976 Island/Arena:  --> Execution time: 997ms
+19:36:30.449 Island/Arena: Processing player [iaad] with island [week01]
+19:36:30.574 Island/Arena:  --> Execution time: 124ms
+19:36:32.393 Island/Arena: Processing player [iade] with island [week01]
+19:36:32.646 Island/Arena:  --> Execution time: 253ms
 ```
 
 # Automatic Ranking
-  - IAAE: [QUARTZ], 131 action points left
-  - IACD: [QUARTZ], 105 action points left
-  - IACA: [], 5236 action points left
-  - IABD: [], 4273 action points left
-  - IABA: [], 480 action points left
+  - IACD: [QUARTZ], 120 action points left
+  - IACA: [], 5156 action points left
+  - IABD: [], 4270 action points left
+  - IABA: [], 478 action points left
 
 # Successful simulations
 
-## Playing bot delivered by IAAE
-  - Remaining budget: 131
-  - Collected resources:
-    - QUARTZ: 121
-    - WOOD: 4034
-  - Report: 
-
-```
-CREEK:b620eb63-b2c7-4265-a352-99e18049277a
-EMERGENCYad0c6156-e2e6-4c3e-bdbf-b0e03147951c
-```
-
 ## Playing bot delivered by IABA
-  - Remaining budget: 480
+  - Remaining budget: 478
   - Collected resources:
     - No resources collected
   - Report: 
 
 ```
-CREEK:b620eb63-b2c7-4265-a352-99e18049277a
-EMERGENCY:ad0c6156-e2e6-4c3e-bdbf-b0e03147951c
+CREEK:f32b44d6-add5-427a-b378-eaca05c7fc58
+EMERGENCY:6d54d9b3-d90c-40bf-8427-6afc425172b1
 ```
 
 ## Playing bot delivered by IABD
-  - Remaining budget: 4273
+  - Remaining budget: 4270
   - Collected resources:
     - No resources collected
   - Report: 
 
 ```
-CREEK:1180baaa-505a-4517-8838-9fd9f9bdd14f
-EMERGENCY:ad0c6156-e2e6-4c3e-bdbf-b0e03147951c
+CREEK:704a039d-54d1-445d-813e-bbcc086f438f
+EMERGENCY:6d54d9b3-d90c-40bf-8427-6afc425172b1
 ```
 
 ## Playing bot delivered by IACA
-  - Remaining budget: 5236
+  - Remaining budget: 5156
   - Collected resources:
     - No resources collected
   - Report: 
 
 ```
-CREEK:b620eb63-b2c7-4265-a352-99e18049277a
-EMERGENCY:ad0c6156-e2e6-4c3e-bdbf-b0e03147951c
+CREEK:f32b44d6-add5-427a-b378-eaca05c7fc58
+EMERGENCY:6d54d9b3-d90c-40bf-8427-6afc425172b1
 ```
 
 ## Playing bot delivered by IACD
-  - Remaining budget: 105
+  - Remaining budget: 120
   - Collected resources:
     - QUARTZ: 101
-    - WOOD: 4739
+    - WOOD: 4874
   - Report: 
 
 ```
-CREEK:b620eb63-b2c7-4265-a352-99e18049277a
+CREEK:f32b44d6-add5-427a-b378-eaca05c7fc58
 EMERGENCY:null
 ```
 
 # Simulation encountering gameplay issues 
 
   - IAAA
+  - IAAD
   - IABB
   - IADE

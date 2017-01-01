@@ -20,7 +20,7 @@ object Week01 extends Run with SI3 {
   override val objectives: Set[(Resource, Int)] = Set((WOOD, 8000), (QUARTZ, 100), (GLASS, 2))
 
   override def players = all -
-                              "iaab" - "iaac" - "iaad" - "iaaf" -
+                              "iaab" - "iaac" - "iaae" - "iaaf" -
                               "iabc" - "iabe" -
                               "iacb" - "iacc" - "iace" -
                               "iada" - "iadb" - "iadc" - "iadd"
