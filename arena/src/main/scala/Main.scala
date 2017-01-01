@@ -2,7 +2,7 @@ import championships._
 import language.postfixOps
 
 /**
-  * Main object used to start the champuinships
+  * Main object used to start the championships
   */
 object Main extends App {
 
@@ -14,6 +14,6 @@ object Main extends App {
   // Week47 run
   // Week48 run
   // Week49 run
-  Week50 run
-
+  // Week50 run
+  Week01 run
 }

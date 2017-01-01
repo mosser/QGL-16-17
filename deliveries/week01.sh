@@ -36,6 +36,7 @@ function handle_repository() # $1 is project's id.
     checkout_tag      $TAG
     if [ "$ERROR" = "1" ]
     then
+	ERROR=0
 	checkout_tag $TAG_ALT
 	if [ "$ERROR" = "1" ]
 	then
