@@ -91,16 +91,16 @@
 # Automatic Ranking
   - IACB: [QUARTZ, WOOD], 259 action points left
   - IACD: [QUARTZ], 75 action points left
-  - IABC: [], 11153 action points left
-  - IADB: [], 9060 action points left
-  - IADA: [], 5992 action points left
-  - IACA: [], 5165 action points left
-  - IADC: [], 5103 action points left
-  - IABD: [], 4274 action points left
-  - IADD: [], 3820 action points left
-  - IACC: [], 1290 action points left
+  - IABC: [Creek #1], 11153 action points left
+  - IADA: [Creek #1], 5992 action points left
+  - IACA: [Creek #1], 5165 action points left
+  - IADC: [Creek #1], 5103 action points left
+  - IADD: [Creek #1], 3820 action points left
+  - IACC: [Creek #1], 1290 action points left
+  - IABA: [Creek #1], 482 action points left
+  - IABD: [Creek #3], 4274 action points left
+  - IADB: [Creek #4], 9060 action points left
   - IAAC: [], 983 action points left
-  - IABA: [], 482 action points left
 
 # Successful simulations
 
