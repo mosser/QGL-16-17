@@ -6,7 +6,6 @@ source ./framework.sh
 ####
 
 TAG="week01"
-TAG_ALT="week1"
 
 function valid_env() # $1 is project's id. 
 {
@@ -36,23 +35,7 @@ function handle_repository() # $1 is project's id.
     checkout_tag      $TAG
     if [ "$ERROR" = "1" ]
     then
-	ERROR=0
-	checkout_tag $TAG_ALT
-	if [ "$ERROR" = "1" ]
-	then
-	    echo "## Abort [missing tag]"
-	else
-	    git_tag_time  $TAG_ALT
-	    count_loc
-	    maven    "clean package"
-            if [ "$ERROR" = "1" ]
-	    then
-		echo "## Abort [project does not build]"
-	    else
-		echo "## \o/ Delivery OK (GRACE) \o/"
-		valid_env $1
-	    fi
-	fi
+	echo "## Abort [missing tag]"
     else
 	git_tag_time  $TAG
 	count_loc
