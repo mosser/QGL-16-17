@@ -110,19 +110,15 @@
   - IADA: [C2], 21851 action points left
   - IADC: [C2], 21226 action points left
   - IACE: [C2], 20753 action points left
-  - IABD: [C2], 19773 action points left
-  - IACA: [C7], 22588 action points left
-  - IACD: [C], 21974 action points left
-  - IAAD: [], 24568 action points left
-  - IAAB: [], 21233 action points left
-
-
-  
-
-  - IADD: [], 18390 action points left
+  - IABD: [C2], 19773 action points left 
   - IABE: [C2], 17762 action points left
   - IAAA: [C2], 462 action points left
-  - IABC: [], 82 action points left
+  - IACA: [C7], 22588 action points left
+  - IACD: [C], 21974 action points left
+  - IABC: [C], 82 action points left
+  - IAAD: [], 24568 action points left
+  - IAAB: [], 21233 action points left
+  - IADD: [], 18390 action points left
 
 # Successful simulations
 
