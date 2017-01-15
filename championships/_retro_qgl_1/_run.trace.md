@@ -1,3 +1,20 @@
+
+## Jobs involved in the retrospective
+  - week01: Action points: 25000, loc: (1,1), crew: 7, contracts: [(WOOD,6000),(FUR,400),(QUARTZ,100),(RUM,2)]
+  - week02: Action points: 30000, loc: (159,159), crew: 15, contracts: [(WOOD,2000),(FUR,100),(QUARTZ,400),(RUM,2)]
+  - week46: Action points: 15000, loc: (1,1), crew: 2, contracts: [(WOOD,5000),(INGOT,5)]
+  - week47: Action points: 10000, loc: (1,1), crew: 7, contracts: [(WOOD,7000),(FUR,400),(RUM,10)]
+  - week48: Action points: 15000, loc: (1,1), crew: 7, contracts: [(WOOD,5000),(FUR,100),(RUM,10)]
+  - week49: Action points: 15000, loc: (159,159), crew: 10, contracts: [(WOOD,5000),(FUR,100),(INGOT,5)]
+  - week50: Action points: 25000, loc: (1,1), crew: 13, contracts: [(WOOD,5000),(FUR,400),(FLOWER,2),(INGOT,5)]
+  - week52: Action points: 20000, loc: (1,1), crew: 6, contracts: [(WOOD,8000),(QUARTZ,100),(GLASS,2)]
+
+## Exporting to JSON
+  - JSON dataset available in `championships/_retro_qgl_1/_results.json`
+
+## Trace
+
+```
 19:54:13.419 Island/Map: [IdentifyWaterArea] Creating the shape
 19:54:13.440 Island/Map: [IdentifyWaterArea] Annotating faces
 19:54:13.499 Island/Map: [IdentifyBorders] Annotating faces
@@ -598,14 +615,6 @@
 19:58:15.707 Island/Arena:  --> Execution time: 27ms
 19:58:15.709 Island/Arena: Processing player [iada] with island [week49]
 19:58:17.739 Island/Arena:  --> Execution time: 2030ms
-## Jobs involved in the retrospective
-  - week01: Action points: 25000, loc: (1,1), crew: 7, contracts: [(WOOD,6000),(FUR,400),(QUARTZ,100),(RUM,2)]
-  - week02: Action points: 30000, loc: (159,159), crew: 15, contracts: [(WOOD,2000),(FUR,100),(QUARTZ,400),(RUM,2)]
-  - week46: Action points: 15000, loc: (1,1), crew: 2, contracts: [(WOOD,5000),(INGOT,5)]
-  - week47: Action points: 10000, loc: (1,1), crew: 7, contracts: [(WOOD,7000),(FUR,400),(RUM,10)]
-  - week48: Action points: 15000, loc: (1,1), crew: 7, contracts: [(WOOD,5000),(FUR,100),(RUM,10)]
-  - week49: Action points: 15000, loc: (159,159), crew: 10, contracts: [(WOOD,5000),(FUR,100),(INGOT,5)]
-  - week50: Action points: 25000, loc: (1,1), crew: 13, contracts: [(WOOD,5000),(FUR,400),(FLOWER,2),(INGOT,5)]
-  - week52: Action points: 20000, loc: (1,1), crew: 6, contracts: [(WOOD,8000),(QUARTZ,100),(GLASS,2)]
-## Exporting to JSON
-  - JSON dataset available in championships/_retro_qgl_1/_results.json
+```
+
+
