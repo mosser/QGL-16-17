@@ -1,0 +1,377 @@
+#  Started at :2017-02-05 19:25:37
+
+
+####
+## Handling Equipe AA [iaaa]
+####
+# Cloning project from remote repository: OK
+# Opening project iaaa
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Feb 5 18:43:55 2017 +0100
+# LOC counter [main]: 1534
+# LOC counter [test]: 1309
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iaaa]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iaaa]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iaaa/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iaaa
+
+####
+## Handling Equipe AB [iaab]
+####
+# Cloning project from remote repository: OK
+# Opening project iaab
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Feb 5 14:53:58 2017 +0100
+# LOC counter [main]: 1490
+# LOC counter [test]: 940
+# Building using Maven [clean package]: FAILURE
+## Abort [project does not build]
+# Leaving project iaab
+
+####
+## Handling Equipe AC [iaac]
+####
+# Cloning project from remote repository: OK
+# Opening project iaac
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Feb 5 18:06:33 2017 +0100
+# LOC counter [main]: 2048
+# LOC counter [test]: 1441
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iaac]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iaac]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iaac/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iaac
+
+####
+## Handling Equipe AD [iaad]
+####
+# Cloning project from remote repository: OK
+# Opening project iaad
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Jan 15 19:00:22 2017 +0100
+# LOC counter [main]: 2095
+# LOC counter [test]: 2262
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iaad]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iaad]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iaad/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iaad
+
+####
+## Handling Equipe AE [iaae]
+####
+# Cloning project from remote repository: OK
+# Opening project iaae
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Feb 5 16:59:16 2017 +0100
+# LOC counter [main]: 2340
+# LOC counter [test]: 1741
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iaae]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iaae]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iaae/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iaae
+
+####
+## Handling Equipe AF [iaaf]
+####
+# Cloning project from remote repository: OK
+# Opening project iaaf
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Feb 5 18:25:18 2017 +0100
+# LOC counter [main]: 1276
+# LOC counter [test]: 872
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iaaf]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iaaf]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iaaf/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iaaf
+
+####
+## Handling Equipe BA [iaba]
+####
+# Cloning project from remote repository: OK
+# Opening project iaba
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Feb 5 18:41:35 2017 +0100
+# LOC counter [main]: 1882
+# LOC counter [test]: 1306
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iaba]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iaba]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iaba/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iaba
+
+####
+## Handling Equipe BB [iabb]
+####
+# Cloning project from remote repository: OK
+# Opening project iabb
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Feb 5 18:26:20 2017 +0100
+# LOC counter [main]: 1896
+# LOC counter [test]: 1553
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iabb]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iabb]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iabb/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iabb
+
+####
+## Handling Equipe BC [iabc]
+####
+# Cloning project from remote repository: OK
+# Opening project iabc
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sat Jan 14 23:20:44 2017 +0100
+# LOC counter [main]: 1303
+# LOC counter [test]: 904
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iabc]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iabc]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iabc/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iabc
+
+####
+## Handling Equipe BD [iabd]
+####
+# Cloning project from remote repository: OK
+# Opening project iabd
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sat Jan 14 22:18:58 2017 +0100
+# LOC counter [main]: 1237
+# LOC counter [test]: 1473
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iabd]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iabd]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iabd/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iabd
+
+####
+## Handling Equipe BE [iabe]
+####
+# Cloning project from remote repository: OK
+# Opening project iabe
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Feb 5 18:53:39 2017 +0100
+# LOC counter [main]: 2240
+# LOC counter [test]: 1115
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iabe]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iabe]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iabe/Explorer.java]: FAILURE
+## Abort [team player not found]
+# Leaving project iabe
+
+####
+## Handling Equipe CA [iaca]
+####
+# Cloning project from remote repository: OK
+# Opening project iaca
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Feb 5 12:16:26 2017 +0100
+# LOC counter [main]: 2218
+# LOC counter [test]: 1586
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iaca]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iaca]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iaca/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iaca
+
+####
+## Handling Equipe CB [iacb]
+####
+# Cloning project from remote repository: OK
+# Opening project iacb
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sat Feb 4 11:35:39 2017 +0100
+# LOC counter [main]: 1475
+# LOC counter [test]: 1903
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iacb]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iacb]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iacb/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iacb
+
+####
+## Handling Equipe CC [iacc]
+####
+# Cloning project from remote repository: OK
+# Opening project iacc
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Feb 5 18:44:19 2017 +0100
+# LOC counter [main]: 1520
+# LOC counter [test]: 1181
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iacc]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iacc]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iacc/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iacc
+
+####
+## Handling Equipe CD [iacd]
+####
+# Cloning project from remote repository: OK
+# Opening project iacd
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Feb 5 16:47:20 2017 +0100
+# LOC counter [main]: 3191
+# LOC counter [test]: 3544
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iacd]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iacd]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iacd/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iacd
+
+####
+## Handling Equipe CE [iace]
+####
+# Cloning project from remote repository: OK
+# Opening project iace
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Feb 5 18:38:25 2017 +0100
+# LOC counter [main]: 1625
+# LOC counter [test]: 1129
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iace]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iace]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iace/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iace
+
+####
+## Handling Equipe DA [iada]
+####
+# Cloning project from remote repository: OK
+# Opening project iada
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Feb 5 16:58:22 2017 +0100
+# LOC counter [main]: 1511
+# LOC counter [test]: 1286
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iada]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iada]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iada/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iada
+
+####
+## Handling Equipe DB [iadb]
+####
+# Cloning project from remote repository: OK
+# Opening project iadb
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Feb 5 17:24:34 2017 +0000
+# LOC counter [main]: 1818
+# LOC counter [test]: 2273
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iadb]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iadb]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iadb/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iadb
+
+####
+## Handling Equipe DC [iadc]
+####
+# Cloning project from remote repository: OK
+# Opening project iadc
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Fri Feb 3 23:46:03 2017 +0100
+# LOC counter [main]: 2459
+# LOC counter [test]: 2387
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iadc]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iadc]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iadc/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iadc
+
+####
+## Handling Equipe DD [iadd]
+####
+# Cloning project from remote repository: OK
+# Opening project iadd
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Feb 5 13:50:14 2017 +0100
+# LOC counter [main]: 1950
+# LOC counter [test]: 1883
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iadd]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iadd]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iadd/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iadd
+
+####
+## Handling Equipe DE [iade]
+####
+# Cloning project from remote repository: OK
+# Opening project iade
+# Checking out tag [week05]: OK
+# Git stamp: Date:   Sun Feb 5 18:01:57 2017 +0100
+# LOC counter [main]: 3127
+# LOC counter [test]: 3751
+# Building using Maven [clean package]: OK
+## \o/ Delivery OK \o/
+# pom.xml/groupId == [fr.unice.polytech.3a.qgl]: OK
+# pom.xml/artifactId == [iade]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iade]: OK
+# Checking existence of [./src/main/java/fr/unice/polytech/si3/qgl/iade/Explorer.java]: OK
+## \o/ Environment OK, will run the championship \o/
+# Leaving project iade
+
+#  Ended at :2017-02-05 19:28:52

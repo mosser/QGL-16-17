@@ -23,8 +23,8 @@ trait SI3 extends Teams {
     "iaba" -> classOf[fr.unice.polytech.si3.qgl.iaba.Explorer],
     "iabb" -> classOf[fr.unice.polytech.si3.qgl.iabb.Explorer],
     "iabc" -> classOf[fr.unice.polytech.si3.qgl.iabc.Explorer],
-    "iabd" -> classOf[fr.unice.polytech.si3.qgl.iabd.Explorer],
-    "iabe" -> classOf[fr.unice.polytech.si3.qgl.iabe.Explorer]
+    "iabd" -> classOf[fr.unice.polytech.si3.qgl.iabd.Explorer]
+    //"iabe" -> classOf[fr.unice.polytech.si3.qgl.iabe.Explorer]
   )
 
   private lazy val g3: Map[String, Class[_ <: IExplorerRaid]] = Map(
