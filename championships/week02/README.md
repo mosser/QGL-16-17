@@ -103,20 +103,19 @@
 # Automatic Ranking
   - IADE: [QUARTZ, WOOD, FUR], 7779 action points left
   - IAAC: [QUARTZ, WOOD], 4014 action points left
-
+  - IAAB: [C1], 18558 action points left
+  - IADC: [C1], 15793 action points left
+  - IACA: [C1], 15280 action points left
+  - IACC: [C1], 8798 action points left
+  - IABB: [C1], 6896 action points left
+  - IAAE: [C1], 42 action points left
+  - IABC: [C2], 17188 action points left
+  - IADD: [C2], 15027 action points left
+  - IABA: [C], 28653 action points left
+  - IAAA: [C], 311 action points left
+  - IACD: [C], 47 action points left
   - IABD: [], 29988 action points left
-  - IABA: [], 28653 action points left
-  - IAAB: [], 18558 action points left
-  - IABC: [], 17188 action points left
-  - IADC: [], 15793 action points left
-  - IACA: [], 15280 action points left
-  - IADD: [], 15027 action points left
-  - IACC: [], 8798 action points left
-  - IABB: [], 6896 action points left
   - IADB: [], 587 action points left
-  - IAAA: [], 311 action points left
-  - IACD: [], 47 action points left
-  - IAAE: [], 42 action points left
   - IAAD: [], 24 action points left
 
 # Successful simulations
