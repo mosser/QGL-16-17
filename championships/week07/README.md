@@ -9,351 +9,352 @@
 
 
 ## Global statistics
-  - % of map occupied by lakes      => 5.41
-  - % of map occupied by lands      => 37.74
+  - % of map occupied by lakes      => 4.63
+  - % of map occupied by lands      => 38.53
   - % of map occupied by the ocean  => 56.85
-  - Area occupied by lakes (ha)     => 1385.85
-  - Area occupied by lands (ha)     => 9661.57
+  - Area occupied by lakes (ha)     => 1184.92
+  - Area occupied by lands (ha)     => 9862.50
   - Area occupied by the ocean (ha) => 14552.58
   - Face area (ha) [avg]            => 12.80
-  - Land elevation (m) [avg]        => 26.41
-  - Land elevation (m) [max]        => 373.95
+  - Land elevation (m) [avg]        => 24.64
+  - Land elevation (m) [max]        => 332.40
   - Land elevation (m) [min]        => 0.00
   - Map area (ha)                   => 25600.00
-  - Pitch for lands (%) [avg]       => 8.56
-  - Pitch for lands (%) [max]       => 1126.26
+  - Pitch for lands (%) [avg]       => 6.09
+  - Pitch for lands (%) [max]       => 439.01
   - Pitch for lands (%) [min]       => 0.00
 
 
 ## Point of Interests available
-  - (28,45): (Creek@(281.09,457.70) [6e196538-e989-4d9d-9d9d-bb41eb7b0917])
-  - (66,34): (Creek@(665.75,345.07) [05c993cc-53c9-498c-be1a-ed6a54882c9f])
-  - (27,42): (Creek@(270.88,420.59) [937df55b-fcfb-4bd7-a361-cd1115fd3001])
-  - (61,132): (EmergencySite@(611.27,1322.64) [1427aafe-9fad-4e71-9d70-915ca1b3bb49])
-  - (130,109): (Creek@(1309.10,1092.92) [75a91cde-e99c-4844-be99-6f2a4789e089])
-  - (34,138): (Creek@(346.64,1381.00) [93c5b33e-896c-4e58-a290-3b14f2b0b84a])
-  - (44,138): (Creek@(443.50,1382.07) [9b506782-dc10-4db7-ad30-0eac5c3aca1d])
-  - (110,64): (Creek@(1103.79,649.76) [b165952e-5b6e-4e0b-b757-2faf70a63af7])
-  - (97,88): (Creek@(972.60,884.04) [04bb2bb2-0958-4412-a7b5-a82faf2c4c6e])
-  - (110,98): (Creek@(1108.54,981.03) [99f44835-ea9b-40ed-9476-d6b7e58fa76f])
-  - (41,60): (Creek@(412.28,604.17) [e92a8aeb-6b81-4aca-a631-a7025e0a5b77])
+  - (22,32): (Creek@(225.12,329.08) [2e0607b5-de92-42b2-9ea9-b0910569b34f])
+  - (72,38): (Creek@(726.71,386.69) [38767dcc-4665-4ff3-8d5e-9e729914e317])
+  - (130,109): (Creek@(1309.10,1092.92) [cdb62d9a-1623-4172-831b-ff2fe4b5732c])
+  - (44,62): (Creek@(449.39,623.61) [e7392d13-841a-4357-85c7-67fe613e1748])
+  - (25,91): (Creek@(257.49,916.88) [6a141476-6513-455f-802d-982db8a2a140])
+  - (110,98): (Creek@(1108.54,981.03) [1d37b33e-2f41-4229-82f3-c463ba44e509])
+  - (110,95): (Creek@(1108.68,957.10) [5fd0f62d-96d5-491a-b675-57d6cd2d971b])
+  - (94,149): (Creek@(940.23,1493.74) [e189ec49-fde5-4e2c-8435-1fe3883b0a2e])
+  - (70,39): (EmergencySite@(703.40,393.10) [16625007-e7b2-4b8e-984a-446692da3243])
+  - (44,69): (Creek@(442.43,699.99) [aa31815e-9377-434e-9d7b-3a4501ab4525])
+  - (96,80): (Creek@(968.35,802.33) [fcab8f7e-eff5-402e-8300-e0da9ef704e1])
 
 
 ## Resources amounts
-  - FISH       => 576441
-  - WOOD       => 123894
-  - SUGAR_CANE => 30739
-  - FRUITS     => 10135
-  - FUR        => 5417
-  - QUARTZ     => 3002
-  - FLOWER     => 1158
+  - FISH       => 575797
+  - WOOD       => 121623
+  - SUGAR_CANE => 46440
+  - FRUITS     => 9289
+  - QUARTZ     => 3238
+  - FUR        => 1596
+  - FLOWER     => 1348
 
 
 ## Objectives
-  - PLANK     : 200
-  - FRUITS    : 20
+  - PLANK     : 1000
   - SUGAR_CANE: 400
+  - WOOD      : 8000
   - RUM       : 15
-  - WOOD      : 2000
+  - FRUITS    : 50
 
 ```
-08:55:20.799 Island/Arena: Processing player [iaad] with island [week07]
-08:55:21.628 Island/Arena:  --> Execution time: 829ms
-08:55:27.782 Island/Arena: Processing player [iabb] with island [week07]
-08:55:28.596 Island/Arena:  --> Execution time: 814ms
-08:55:32.492 Island/Arena: Processing player [iaaf] with island [week07]
-08:55:34.521 Island/Arena:  --> Execution time: 2029ms
-08:55:39.756 Island/Arena: Processing player [iada] with island [week07]
-08:55:41.406 Island/Arena:  --> Execution time: 1650ms
-08:55:46.189 Island/Arena: Processing player [iaca] with island [week07]
-08:55:46.819 Island/Arena:  --> Execution time: 630ms
-08:55:50.988 Island/Arena: Processing player [iabd] with island [week07]
-08:55:51.133 Island/Arena:  --> Execution time: 144ms
-08:55:53.762 Island/Arena: Processing player [iabe] with island [week07]
-08:55:58.744 Island/Arena:  --> Execution time: 4982ms
-08:56:01.125 Island/Arena: Processing player [iade] with island [week07]
-08:56:02.184 Island/Arena:  --> Execution time: 1058ms
-08:56:05.459 Island/Arena: Processing player [iaae] with island [week07]
-08:56:06.509 Island/Arena:  --> Execution time: 1050ms
-08:56:09.363 Island/Arena: Processing player [iadd] with island [week07]
-08:56:09.633 Island/Arena:  --> Execution time: 270ms
-08:56:13.668 Island/Arena: Processing player [iadc] with island [week07]
-08:56:13.859 Island/Arena:  --> Execution time: 191ms
-08:56:17.402 Island/Arena: Processing player [iaba] with island [week07]
-08:56:17.756 Island/Arena:  --> Execution time: 353ms
-08:56:21.597 Island/Arena: Processing player [iacd] with island [week07]
-08:56:21.928 Island/Arena:  --> Execution time: 331ms
-08:56:25.575 Island/Arena: Processing player [iabc] with island [week07]
-08:56:26.651 Island/Arena:  --> Execution time: 1076ms
-08:56:29.178 Island/Arena: Processing player [iaab] with island [week07]
-08:56:29.236 Island/Arena:  --> Execution time: 58ms
-08:56:33.582 Island/Arena: Processing player [iaac] with island [week07]
-08:56:34.674 Island/Arena:  --> Execution time: 1092ms
-08:56:37.382 Island/Arena: Processing player [iace] with island [week07]
-08:56:37.458 Island/Arena:  --> Execution time: 76ms
-08:56:39.227 Island/Arena: Processing player [iadb] with island [week07]
-08:56:40.492 Island/Arena:  --> Execution time: 1265ms
-08:56:43.518 Island/Arena: Processing player [iaaa] with island [week07]
-08:56:44.065 Island/Arena:  --> Execution time: 547ms
-08:56:47.419 Island/Arena: Processing player [iacb] with island [week07]
-08:56:47.667 Island/Arena:  --> Execution time: 248ms
+10:49:48.548 Island/Arena: Processing player [iadb] with island [week07]
+10:49:50.511 Island/Arena:  --> Execution time: 1963ms
+10:49:54.693 Island/Arena: Processing player [iabb] with island [week07]
+10:49:55.704 Island/Arena:  --> Execution time: 1011ms
+10:49:59.277 Island/Arena: Processing player [iacb] with island [week07]
+10:49:59.900 Island/Arena:  --> Execution time: 623ms
+10:50:03.931 Island/Arena: Processing player [iadd] with island [week07]
+10:50:04.278 Island/Arena:  --> Execution time: 346ms
+10:50:08.593 Island/Arena: Processing player [iabe] with island [week07]
+10:50:15.111 Island/Arena:  --> Execution time: 6518ms
+10:50:17.683 Island/Arena: Processing player [iabc] with island [week07]
+10:50:19.055 Island/Arena:  --> Execution time: 1372ms
+10:50:21.905 Island/Arena: Processing player [iabd] with island [week07]
+10:50:22.000 Island/Arena:  --> Execution time: 94ms
+10:50:25.098 Island/Arena: Processing player [iaae] with island [week07]
+10:50:25.591 Island/Arena:  --> Execution time: 493ms
+10:50:28.959 Island/Arena: Processing player [iaca] with island [week07]
+10:50:30.597 Island/Arena:  --> Execution time: 1638ms
+10:50:33.555 Island/Arena: Processing player [iade] with island [week07]
+10:50:34.448 Island/Arena:  --> Execution time: 893ms
+10:50:37.902 Island/Arena: Processing player [iacd] with island [week07]
+10:50:38.371 Island/Arena:  --> Execution time: 469ms
+10:50:41.205 Island/Arena: Processing player [iaac] with island [week07]
+10:50:42.520 Island/Arena:  --> Execution time: 1315ms
+10:50:45.627 Island/Arena: Processing player [iaad] with island [week07]
+10:50:45.821 Island/Arena:  --> Execution time: 194ms
+10:50:49.742 Island/Arena: Processing player [iaba] with island [week07]
+10:50:50.447 Island/Arena:  --> Execution time: 705ms
+10:50:54.465 Island/Arena: Processing player [iaaf] with island [week07]
+10:50:57.984 Island/Arena:  --> Execution time: 3518ms
+10:51:00.528 Island/Arena: Processing player [iadc] with island [week07]
+10:51:00.876 Island/Arena:  --> Execution time: 348ms
+10:51:05.061 Island/Arena: Processing player [iaab] with island [week07]
+10:51:05.184 Island/Arena:  --> Execution time: 123ms
+10:51:06.857 Island/Arena: Processing player [iaaa] with island [week07]
+10:51:07.113 Island/Arena:  --> Execution time: 256ms
+10:51:10.939 Island/Arena: Processing player [iace] with island [week07]
+10:51:10.999 Island/Arena:  --> Execution time: 60ms
+10:51:14.236 Island/Arena: Processing player [iada] with island [week07]
+10:51:17.116 Island/Arena:  --> Execution time: 2880ms
 ```
 
 # Automatic Ranking
-  - IADC: [PLANK, SUGAR_CANE, RUM, WOOD, FRUITS], 26808 action points left
-  - IADB: [PLANK, SUGAR_CANE, RUM, WOOD, FRUITS], 21282 action points left
-  - IADE: [PLANK, SUGAR_CANE, RUM, WOOD, FRUITS], 20222 action points left
-  - IAAE: [PLANK, SUGAR_CANE, RUM, WOOD, FRUITS], 18541 action points left
-  - IACB: [PLANK, WOOD, RUM], 18317 action points left
-  - IACD: [WOOD, SUGAR_CANE, FRUITS], 24183 action points left
-  - IAAC: [WOOD, SUGAR_CANE, FRUITS], 16879 action points left
-  - IAAA: [WOOD, SUGAR_CANE, FRUITS], 14877 action points left
-  - IADA: [WOOD, FRUITS, SUGAR_CANE], 3216 action points left
-  - IAAD: [WOOD, FRUITS, SUGAR_CANE], 472 action points left
-  - IACA: [WOOD], 20133 action points left
-  - IABE: [FRUITS], 15890 action points left
-  - IAAB: [], 32017 action points left
-  - IACE: [], 31705 action points left
-  - IABD: [], 29850 action points left
-  - IABC: [], 24766 action points left
-  - IADD: [], 21451 action points left
-  - IABA: [], 454 action points left
-  - IABB: [], 2 action points left
+  - IADC: [PLANK, SUGAR_CANE, RUM, WOOD, FRUITS], 6104 action points left
+  - IADB: [PLANK, SUGAR_CANE, RUM, WOOD, FRUITS], 2827 action points left
+  - IACD: [SUGAR_CANE, WOOD, FRUITS], 1687 action points left
+  - IAAA: [FRUITS, SUGAR_CANE], 10148 action points left
+  - IADA: [SUGAR_CANE, FRUITS], 1954 action points left
+  - IADE: [SUGAR_CANE, FRUITS], 556 action points left
+  - IAAD: [FRUITS, SUGAR_CANE], 475 action points left
+  - IACB: [SUGAR_CANE, FRUITS], 139 action points left
+  - IAAC: [FRUITS], 628 action points left
+  - IAAE: [FRUITS], 199 action points left
+  - IACE: [], 18922 action points left
+  - IABD: [], 17812 action points left
+  - IAAB: [], 17026 action points left
+  - IABC: [], 11713 action points left
+  - IAAF: [], 4739 action points left
+  - IACA: [], 1938 action points left
+  - IABE: [], 1373 action points left
+  - IABA: [], 483 action points left
+  - IADD: [], 421 action points left
+  - IABB: [], 34 action points left
 
 # Successful simulations
 
 ## Playing bot delivered by IAAA
-  - Remaining budget: 14877
+  - Remaining budget: 10148
   - Collected resources:
-    - WOOD: 2014
-    - SUGAR_CANE: 412
-    - FRUITS: 20
+    - WOOD: 2008
+    - FRUITS: 52
+    - SUGAR_CANE: 413
   - Report: 
 
 ```
-CREEK:937df55b-fcfb-4bd7-a361-cd1115fd3001
-EMERGENCY:
+CREEK:aa31815e-9377-434e-9d7b-3a4501ab4525
+EMERGENCY:16625007-e7b2-4b8e-984a-446692da3243
 ```
 
 
 ## Playing bot delivered by IAAB
-  - Remaining budget: 32017
+  - Remaining budget: 17026
   - Collected resources:
     - No resources collected
-  - Report: `ALL CREEKS FOUND: 9b506782-dc10-4db7-ad30-0eac5c3aca1d
+  - Report: `ALL CREEKS FOUND: 5fd0f62d-96d5-491a-b675-57d6cd2d971b
 `
 
 ## Playing bot delivered by IAAC
-  - Remaining budget: 16879
+  - Remaining budget: 628
   - Collected resources:
-    - WOOD: 2002
-    - SUGAR_CANE: 408
-    - FRUITS: 26
+    - FRUITS: 51
+    - WOOD: 3156
   - Report: `REPORT`
 
 ## Playing bot delivered by IAAD
-  - Remaining budget: 472
+  - Remaining budget: 475
   - Collected resources:
-    - WOOD: 2025
-    - FRUITS: 20
-    - SUGAR_CANE: 415
+    - WOOD: 7142
+    - FRUITS: 56
+    - SUGAR_CANE: 402
   - Report: `Nous allons être riches !!  `
 
 ## Playing bot delivered by IAAE
-  - Remaining budget: 18541
+  - Remaining budget: 199
   - Collected resources:
-    - PLANK: 212
-    - WOOD: 2776
-    - SUGAR_CANE: 412
-    - FRUITS: 23
-    - RUM: 15
+    - FRUITS: 139
+    - WOOD: 5416
   - Report: 
 
 ```
-CREEK:9b506782-dc10-4db7-ad30-0eac5c3aca1d
-EMERGENCY1427aafe-9fad-4e71-9d70-915ca1b3bb49
+CREEK:aa31815e-9377-434e-9d7b-3a4501ab4525
+EMERGENCY16625007-e7b2-4b8e-984a-446692da3243
+```
+
+
+## Playing bot delivered by IAAF
+  - Remaining budget: 4739
+  - Collected resources:
+    - No resources collected
+  - Report: 
+
+```
+EMERGENCY:16625007-e7b2-4b8e-984a-446692da3243
+CREEK:38767dcc-4665-4ff3-8d5e-9e729914e317
 ```
 
 
 ## Playing bot delivered by IABA
-  - Remaining budget: 454
+  - Remaining budget: 483
   - Collected resources:
-    - WOOD: 84
-    - SUGAR_CANE: 17
+    - No resources collected
   - Report: 
 
 ```
-CREEK:937df55b-fcfb-4bd7-a361-cd1115fd3001
+CREEK:2e0607b5-de92-42b2-9ea9-b0910569b34f
 EMERGENCY:not found
 ```
 
 
 ## Playing bot delivered by IABB
-  - Remaining budget: 2
+  - Remaining budget: 34
   - Collected resources:
     - No resources collected
   - Report: 
 
 ```
-Creek where we land on: 937df55b-fcfb-4bd7-a361-cd1115fd3001
+Creek where we land on: 38767dcc-4665-4ff3-8d5e-9e729914e317
 Resources delivered:
 RUM : 0/15
-FRUITS : 0/20
-PLANK : 0/200
+FRUITS : 0/50
 SUGAR_CANE : 0/400
-WOOD : 0/2000
+PLANK : 0/1000
+WOOD : 0/8000
 
 ```
 
 
 ## Playing bot delivered by IABC
-  - Remaining budget: 24766
+  - Remaining budget: 11713
   - Collected resources:
     - No resources collected
   - Report: 
 
 ```
 Here is our final report!
-EMERGENCY:1427aafe-9fad-4e71-9d70-915ca1b3bb49
+EMERGENCY:16625007-e7b2-4b8e-984a-446692da3243
 We also have landed on the following creek:
-CREEK:9b506782-dc10-4db7-ad30-0eac5c3aca1d
+CREEK:aa31815e-9377-434e-9d7b-3a4501ab4525
 ```
 
 
 ## Playing bot delivered by IABD
-  - Remaining budget: 29850
+  - Remaining budget: 17812
   - Collected resources:
     - No resources collected
   - Report: 
 
 ```
-CREEK:9b506782-dc10-4db7-ad30-0eac5c3aca1d
+CREEK:2e0607b5-de92-42b2-9ea9-b0910569b34f
 EMERGENCY: No rescue point found
-STOCK:Stock [stock={}, contracts={SUGAR_CANE=400, PLANK=200, WOOD=2000, RUM=15, FRUITS=20}]
+STOCK:Stock [stock={}, contracts={FRUITS=50, SUGAR_CANE=400, PLANK=1000, WOOD=8000, RUM=15}]
 ```
 
 
 ## Playing bot delivered by IABE
-  - Remaining budget: 15890
+  - Remaining budget: 1373
   - Collected resources:
-    - FRUITS: 41
-    - SUGAR_CANE: 69
+    - FRUITS: 3
   - Report: 
 
 ```
-EMERGENCY:1427aafe-9fad-4e71-9d70-915ca1b3bb49
-CREEK:9b506782-dc10-4db7-ad30-0eac5c3aca1d
+EMERGENCY:16625007-e7b2-4b8e-984a-446692da3243
+CREEK:38767dcc-4665-4ff3-8d5e-9e729914e317
 ```
 
 
 ## Playing bot delivered by IACA
-  - Remaining budget: 20133
+  - Remaining budget: 1938
   - Collected resources:
-    - WOOD: 2000
+    - WOOD: 2582
   - Report: `_None_`
 
 ## Playing bot delivered by IACB
-  - Remaining budget: 18317
+  - Remaining budget: 139
   - Collected resources:
-    - FRUITS: 7
-    - PLANK: 200
-    - WOOD: 2146
-    - SUGAR_CANE: 206
-    - RUM: 15
+    - SUGAR_CANE: 567
+    - WOOD: 4003
+    - FRUITS: 70
   - Report: 
 
 ```
-CREEK:05c993cc-53c9-498c-be1a-ed6a54882c9f
-EMERGENCY:1427aafe-9fad-4e71-9d70-915ca1b3bb49
+CREEK:aa31815e-9377-434e-9d7b-3a4501ab4525
+EMERGENCY:16625007-e7b2-4b8e-984a-446692da3243
 
-Collected Resources: {FRUITS=42, WOOD=2205, SUGAR_CANE=556, PLANK=200, RUM=15}
+Collected Resources: {FRUITS=70, WOOD=4003, SUGAR_CANE=567, PLANK=0, RUM=0}
 ```
 
 
 ## Playing bot delivered by IACD
-  - Remaining budget: 24183
+  - Remaining budget: 1687
   - Collected resources:
-    - WOOD: 2019
-    - SUGAR_CANE: 418
-    - FRUITS: 23
+    - SUGAR_CANE: 405
+    - WOOD: 8000
+    - FRUITS: 57
   - Report: 
 
 ```
-CREEK:05c993cc-53c9-498c-be1a-ed6a54882c9f
-EMERGENCY:1427aafe-9fad-4e71-9d70-915ca1b3bb49
+CREEK:aa31815e-9377-434e-9d7b-3a4501ab4525
+EMERGENCY:16625007-e7b2-4b8e-984a-446692da3243
 ```
 
 
 ## Playing bot delivered by IACE
-  - Remaining budget: 31705
+  - Remaining budget: 18922
   - Collected resources:
-    - FISH: 1
+    - FISH: 12
+    - FLOWER: 1
   - Report: 
 
 ```
 Expolited resources in the tile on which we landed :
-	 -FISH : 1 units
+	 -FISH : 12 units
+	 -FLOWER : 1 units
 
 ```
 
 
 ## Playing bot delivered by IADA
-  - Remaining budget: 3216
+  - Remaining budget: 1954
   - Collected resources:
-    - WOOD: 2023
-    - FRUITS: 26
-    - SUGAR_CANE: 418
+    - WOOD: 2036
+    - SUGAR_CANE: 404
+    - FRUITS: 50
   - Report: `It's over 9000!!!!`
 
 ## Playing bot delivered by IADB
-  - Remaining budget: 21282
+  - Remaining budget: 2827
   - Collected resources:
-    - PLANK: 776
-    - SUGAR_CANE: 475
-    - FRUITS: 27
+    - FRUITS: 58
+    - PLANK: 4371
+    - SUGAR_CANE: 482
+    - WOOD: 8508
     - RUM: 15
-    - WOOD: 2111
   - Report: `[FRUITS, SUGAR_CANE, WOOD, PLANK, RUM]`
 
 ## Playing bot delivered by IADC
-  - Remaining budget: 26808
+  - Remaining budget: 6104
   - Collected resources:
-    - SUGAR_CANE: 401
-    - WOOD: 2023
-    - FRUITS: 29
-    - RUM: 17
-    - PLANK: 256
+    - SUGAR_CANE: 404
+    - WOOD: 8033
+    - PLANK: 1241
+    - RUM: 20
+    - FRUITS: 50
   - Report: `_None_`
 
 ## Playing bot delivered by IADD
-  - Remaining budget: 21451
+  - Remaining budget: 421
   - Collected resources:
-    - WOOD: 1979
+    - WOOD: 6357
   - Report: 
 
 ```
 CONTRACTS : 
-21 units of WOOD
+50 units of FRUITS
+1643 units of WOOD
 400 units of SUGAR_CANE
-20 units of FRUITS
 150 units of SUGAR_CANE
 15 units of FRUITS
-200 units of WOOD
+1000 units of WOOD
 
-remaining budget : 21451
+remaining budget : 421
 ```
 
 
 ## Playing bot delivered by IADE
-  - Remaining budget: 20222
+  - Remaining budget: 556
   - Collected resources:
-    - SUGAR_CANE: 515
-    - PLANK: 200
-    - FRUITS: 33
-    - WOOD: 2201
-    - RUM: 15
+    - WOOD: 7466
+    - SUGAR_CANE: 790
+    - FRUITS: 90
   - Report: `The creek is a lie`
-
-# Simulation encountering gameplay issues 
-
-  - IAAF
