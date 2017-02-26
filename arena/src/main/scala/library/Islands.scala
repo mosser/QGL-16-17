@@ -7,6 +7,13 @@ import eu.ace_design.island.stdlib.WhittakerDiagrams
 
 object Islands extends DiSLand {
 
+  val s08 = 0x31FE3642E86C572DL
+  lazy val week08: IslandMap = {
+    createIsland shapedAs radial(factor = 1.65) withSize 1600 having 2000.faces builtWith Seq(
+      plateau(20), flowing(rivers = 10, distance = 0.40), withMoisture(soils.wet, distance = 500),
+      AssignPitch, usingBiomes(WhittakerDiagrams.caribbean)) usingSeed s08
+  }
+
   val s07 = 0xDFBF50881D18A3D1L
   lazy val week07: IslandMap = {
     createIsland shapedAs radial(factor = 1.45) withSize 1600 having 2000.faces builtWith Seq(

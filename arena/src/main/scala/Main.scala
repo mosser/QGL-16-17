@@ -6,8 +6,10 @@ import language.postfixOps
   */
 object Main extends App {
 
+  /***************
+   * Semester #1 *
+   ***************/
 
-  // Running the championship
 
   // Week45 run
   // Week46 run
@@ -18,8 +20,14 @@ object Main extends App {
   // Week52 run
   // Week01 run
   // Week02 run
+
+  /***************
+    * Semester #2 *
+    ***************/
+
   // Week05 run
   // Week06 run
-  Week07 run
+  // Week07 run
+  Week08 run
 
 }
