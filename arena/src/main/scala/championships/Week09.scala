@@ -20,6 +20,6 @@ object Week09 extends Run with SI3 {
   override val objectives: Set[(Resource, Int)] =
     Set((WOOD, 12000), (FRUITS, 100), (FLOWER, 500), (FUR, 2000), (RUM, 15), (GLASS, 2))
 
-  override def players =  all
+  override def players =  all - "iade"
 
 }
