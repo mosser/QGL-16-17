@@ -1,15 +1,11 @@
 import championships._
 import language.postfixOps
 
-/**
-  * Main object used to start the championships
-  */
 object Main extends App {
 
   /***************
    * Semester #1 *
    ***************/
-
 
   // Week45 run
   // Week46 run
@@ -31,5 +27,7 @@ object Main extends App {
   // Week08 run
   // Week09 run
   // Week10 run
-  Week11 run
+  // Week11 run
+  Week12 run
+
 }
